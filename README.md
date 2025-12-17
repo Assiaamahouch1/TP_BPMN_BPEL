@@ -7,11 +7,8 @@
 - AMAHOUCH Assia  
 - AATIQ Sawssan
 
-**Filière :** IID 3ème année  
+**Filière :** GI 3ème année  
 **Date :** Décembre 2025  
-**Module :** Process Mining (PM)
-
----
 
 ## 📋 Table des matières
 
